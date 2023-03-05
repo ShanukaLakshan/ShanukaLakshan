@@ -23,12 +23,14 @@
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
           
 <br />
+<br />
 
 ### 🚀 Frameworks
 
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />          
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
+<br />
 <br />
 
 ### 💻 Version Control
@@ -37,10 +39,10 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <br />
+<br />
 
-### - 💞️ I’m looking to collaborate on Web and Android based projects and Data Science related projects.
+## 💞️ I’m looking to collaborate on Web and Android based projects and Data Science related projects.
 
-<a href="mailto:shanukalakshan9817@gmail.com">
-         <img alt="Email" title="How to reach me" ></a>
+**`How to reach me<a href="mailto:shanukalakshan9817@gmail.com">`**
 
 </br>
