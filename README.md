@@ -5,6 +5,11 @@
 **`Computer Science and Engineer`**
 **`Data Science Engineering Specialized`**
 
+#### 📫 How to reach me:
+
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/cse-shanuka-lakshan)
+<a href="mailto:shanukalakshan9817@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+
 - 👋 Hi, I’m @ShanukaLakshan .I like software develpment.
 - I'm interested in Artificial Inteligance, Machine Learning, and Data analysis, Web Development, Android Development and IOS Development.
   <br />
@@ -45,11 +50,6 @@
 
 ## 💞️ I’m looking to collaborate on Web and Android based projects and Data Science related projects.
 
-#### 📫 How to reach me:
-
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/cse-shanuka-lakshan)
-<a href="mailto:shanukalakshan9817@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
-
-**`How to reach me shanukalakshan9817@gmail.com`**
+**`How to reach me send mail to - shanukalakshan9817@gmail.com`**
 
 </br>
