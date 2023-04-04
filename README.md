@@ -27,7 +27,7 @@
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" alt="Nodejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
 
-![](/ux.jpg)
+<img src="./ux.jpg" width="500" height="300">
 
 ### Mercon 2023 - A Website created for MERCON 2023 Research Conference
 
