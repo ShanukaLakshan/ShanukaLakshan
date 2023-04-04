@@ -5,7 +5,7 @@
 **`Computer Science and Engineer`**
 **`Data Science Engineering Specialized`**
 
-#### 📫 How to reach me:
+### 📫 How to reach me:
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/cse-shanuka-lakshan)
 <a href="mailto:shanukalakshan9817@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
@@ -13,6 +13,16 @@
 - 👋 Hi, I’m @ShanukaLakshan .I like software develpment.
 - I'm interested in Artificial Inteligance, Machine Learning, and Data analysis, Web Development, Android Development and IOS Development.
   <br />
+
+## 🚀 Ongoing Projects
+
+### PeoTV App - An Android app running on SLT PeoTV smart TV boxes (STB) assume to improving user viewing experience.
+
+### MORA UXplore - A Website created for MORA UXplore 2023 event
+
+### Mercon 2023 - A Website created for MERCON 2023 Research Conference
+
+### EXMO Mobile App - An Android app develop related to the EXMO 2023 Re-energize Sri Lanka program of the University of Moratuwa.
 
 ### 👨‍💻 Programming Languages and Tools
 
