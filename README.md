@@ -13,6 +13,7 @@
 - 👋 Hi, I’m @ShanukaLakshan .I like software develpment.
 - I'm interested in Artificial Inteligance, Machine Learning, and Data analysis, Web Development, Android Development and IOS Development.
   <br />
+  <br />
 
 ## 🚀 Ongoing Projects
 
@@ -20,6 +21,7 @@
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   
+<br />
 <br />
 
 ### MORA UXplore - A Website created for MORA UXplore 2023 event
@@ -34,6 +36,7 @@
 <img src="./ux.jpg" width="500" height="300">
 
 <br />
+<br />
 
 ### Mercon 2023 - A Website created for MERCON 2023 Research Conference
 
@@ -44,6 +47,7 @@
 
 <img src="./mercon.jpg" width="500" height="300">
 
+<br />
 <br />
 
 ### EXMO Mobile App - An Android app develop related to the EXMO 2023 Re-energize Sri Lanka program of the University of Moratuwa.
