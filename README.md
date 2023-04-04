@@ -15,7 +15,7 @@
   <br />
   <br />
 
-## 🚀 Ongoing Projects
+## Ongoing Projects
 
 ### PeoTV App - An Android app running on SLT PeoTV smart TV boxes (STB) assume to improving user viewing experience.
 
@@ -33,8 +33,6 @@
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" alt="Nodejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
 
-<img src="./ux.jpg" width="500" height="300">
-
 <br />
 <br />
 
@@ -45,8 +43,6 @@
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" alt="Nodejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
 
-<img src="./mercon.jpg" width="500" height="300">
-
 <br />
 <br />
 
@@ -55,7 +51,7 @@
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 
-### 👨‍💻 Programming Languages and Tools
+### Programming Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -73,7 +69,7 @@
 <br />
 <br />
 
-### 🚀 Frameworks
+### Frameworks
 
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />          
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -81,7 +77,7 @@
 <br />
 <br />
 
-### 💻 Version Control
+### Version Control
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -89,8 +85,10 @@
 <br />
 <br />
 
-## 💞️ I’m looking to collaborate on Web and Android based projects and Data Science related projects.
+## I’m looking to collaborate on Web and Android based projects and Data Science related projects.
 
 **`How to reach me send mail to - shanukalakshan9817@gmail.com`**
 
 </br>
+
+<!-- https://devicon.dev/ -->
