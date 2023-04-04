@@ -20,7 +20,11 @@
 
 ### MORA UXplore - A Website created for MORA UXplore 2023 event
 
+![](/ux.jpg)
+
 ### Mercon 2023 - A Website created for MERCON 2023 Research Conference
+
+![](/mercon.jpg)
 
 ### EXMO Mobile App - An Android app develop related to the EXMO 2023 Re-energize Sri Lanka program of the University of Moratuwa.
 
