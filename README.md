@@ -19,6 +19,8 @@
 ### PeoTV App - An Android app running on SLT PeoTV smart TV boxes (STB) assume to improving user viewing experience.
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  
+<br />
 
 ### MORA UXplore - A Website created for MORA UXplore 2023 event
 
@@ -31,6 +33,8 @@
 
 <img src="./ux.jpg" width="500" height="300">
 
+<br />
+
 ### Mercon 2023 - A Website created for MERCON 2023 Research Conference
 
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
@@ -39,6 +43,8 @@
 <img align="left" alt="Nodejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
 
 <img src="./mercon.jpg" width="500" height="300">
+
+<br />
 
 ### EXMO Mobile App - An Android app develop related to the EXMO 2023 Re-energize Sri Lanka program of the University of Moratuwa.
 
