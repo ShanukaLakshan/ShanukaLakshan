@@ -7,7 +7,8 @@
 
 ### 📫 How to reach me:
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/cse-shanuka-lakshan)
+#### [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/cse-shanuka-lakshan) To profile [here](https://www.linkedin.com/in/cse-shanuka-lakshan)
+
 <a href="mailto:shanukalakshan9817@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
 - 👋 Hi, I’m @ShanukaLakshan .I like software develpment.
