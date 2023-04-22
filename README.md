@@ -25,6 +25,8 @@
 
 ### MORA UXplore - A Website created for MORA UXplore 2023 event
 
+#### Visit the website [here](https://morauxplore.lk/)
+
 <img align="left" alt="MongoDB" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="Express" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
 <img align="left" alt="React" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
