@@ -5,6 +5,8 @@
 **`Computer Science and Engineer`**
 **`Data Science Engineering Specialized`**
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/BiRfBkDsTsBhBk.png" alt="TryHackMe">
+
 ### 📫 How to reach me:
 
 #### [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/cse-shanuka-lakshan) To profile [here](https://www.linkedin.com/in/cse-shanuka-lakshan)
@@ -94,5 +96,4 @@
 
 </br>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/BiRfBkDsTsBhBk.png" alt="TryHackMe">
 <!-- https://devicon.dev/ -->
