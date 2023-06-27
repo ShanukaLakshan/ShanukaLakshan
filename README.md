@@ -94,6 +94,5 @@
 
 </br>
 
- <script src="https://tryhackme.com/badge/1229709"></script>
-
+<img src="https://tryhackme.com/badge/1229709"/>
 <!-- https://devicon.dev/ -->
