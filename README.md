@@ -94,5 +94,5 @@
 
 </br>
 
-<img src="https://tryhackme.com/badge/1229709"/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/BiRfBkDsTsBhBk.png" alt="TryHackMe">
 <!-- https://devicon.dev/ -->
