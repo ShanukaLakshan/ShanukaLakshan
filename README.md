@@ -1,34 +1,59 @@
-# 🏄‍♂️ Shanuka Lakshan
+## Shanuka Lakshan [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/cse-shanuka-lakshan) <a href="mailto:shanukalakshan9817@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a><img src="https://tryhackme-badges.s3.amazonaws.com/BiRfBkDsTsBhBk.png" alt="TryHackMe" width="20%">
 
 ![](/header.png)
 
-**`Computer Science and Engineer`**
-**`Data Science Engineering Specialized`**
+##### **`Computer Science and Engineering University of Moratuwa(ug)`** **`Data Science Engineering Specialized`**
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/BiRfBkDsTsBhBk.png" alt="TryHackMe">
+### Web & Mobile Development
 
-### 📫 How to reach me:
+<img align="left" alt="Flutter" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />          
+<img align="left" alt="React" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+Mobile Development : React Native, Flutter
 
-#### [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/cse-shanuka-lakshan) To profile [here](https://www.linkedin.com/in/cse-shanuka-lakshan)
+<img align="left" alt="Nodejs" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
+<img align="left" alt="React" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+Backend: Node.js, Fast API
 
-<a href="mailto:shanukalakshan9817@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+<img align="left" alt="React" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+Frontend: React
 
-- 👋 Hi, I’m @ShanukaLakshan .I like software develpment.
+<img align="left" alt="MongoDB" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+<img align="left" alt="Mysql" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="Firebase" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+<img align="left" alt="Postgresql" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+Database: MongoDB MySQL Firebase Postgresql
+
+<img align="left" alt="Git" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Azure" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+VCS: Git GitHub Azure
+
+<img align="left" alt="VsCode" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="intellij" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+IDE's: VS Code, Intellij
+
+<img align="left" alt="Figma" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+Design: Figma
+
+<br/>
+
+### About me
+
+- Hi, I’m Shanuka Lakshan.FullStack Web Developer.Also like software develpment.
 - I'm interested in Artificial Inteligance, Machine Learning, and Data analysis, Web Development, Android Development and IOS Development.
-  <br />
   <br />
 
 ## Ongoing Projects
 
-### PeoTV App - An Android app running on SLT PeoTV smart TV boxes (STB) assume to improving user viewing experience.
+#### PeoTV App - An Android app running on SLT PeoTV smart TV boxes (STB) assume to improving user viewing experience.
 
 <img align="left" alt="React" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  
+
 <br />
 
-### MORA UXplore - A Website created for MORA UXplore 2023 event
+#### MORA UXplore - A Website created for MORA UXplore 2023 event
 
-#### Visit the website [here](https://morauxplore.lk/)
+##### Visit the website [here](https://morauxplore.lk/)
 
 <img align="left" alt="MongoDB" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="Express" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
@@ -37,9 +62,9 @@
 
 <br />
 
-### Mercon 2023 - A Website created for MERCON 2023 Research Conference
+#### Mercon 2023 - A Website created for MERCON 2023 Research Conference
 
-#### Visit the website [here](https://mercon.uom.lk/)
+##### Visit the website [here](https://mercon.uom.lk/)
 
 <img align="left" alt="MongoDB" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="Express" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
@@ -48,7 +73,7 @@
 
 <br />
 
-### EXMO Mobile App - An Android app develop related to the EXMO 2023 Re-energize Sri Lanka program of the University of Moratuwa
+#### EXMO Mobile App - An Android app develop related to the EXMO 2023 Re-energize Sri Lanka program of the University of Moratuwa
 
 <img align="left" alt="Firebase" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 <img align="left" alt="React" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
@@ -70,30 +95,14 @@
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-          
-<br />
-<br />
-
-### Frameworks
-
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />          
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 <br />
 <br />
 
-### Version Control
+### I’m looking to collaborate on Web and Android based projects and Data Science related projects.
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+### _Contact Me_
 
-<br />
-<br />
-
-## I’m looking to collaborate on Web and Android based projects and Data Science related projects.
-
-**`How to reach me send mail to - shanukalakshan9817@gmail.com`**
-
-</br>
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4.5%"/>](https://www.linkedin.com/in/cse-shanuka-lakshan) <a href="mailto:shanukalakshan9817@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4.5%"/> </a>
 
 <!-- https://devicon.dev/ -->
