@@ -1,8 +1,27 @@
-## Shanuka Lakshan [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/cse-shanuka-lakshan) <a href="mailto:shanukalakshan9817@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a><img src="https://tryhackme-badges.s3.amazonaws.com/BiRfBkDsTsBhBk.png" alt="TryHackMe" width="20%">
+## Shanuka Lakshan
 
 ![](/header.png)
 
 ##### **`Computer Science and Engineering University of Moratuwa(ug)`** **`Data Science Engineering Specialized`**
+
+<br/>
+
+## Connect with me:
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/cse-shanuka-lakshan"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="mailto:shanukalakshan9817@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" /> </a>
+<img src="https://tryhackme-badges.s3.amazonaws.com/BiRfBkDsTsBhBk.png" alt="TryHackMe" width="20%">
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+</a>
+
+## ![HitCount](https://hits.dwyl.com/ShanukaLakshan/ShanukaLakshan.svg?style=flat-square)
+
+<a href="https://github.com/shanukaLakshan?tab=followers"><img src="https://img.shields.io/github/followers/shanukaLakshan?label=Followers&style=social" alt="GitHub Badge"></a>
+
+</p>
 
 ### Web & Mobile Development
 
