@@ -15,14 +15,14 @@
 
 ### Technical Skills:
 
-- **Languages**: Java, JavaScript, TypeScript, Python, C++
+- **Languages**: Java, JavaScript, TypeScript, Python
 - **Cloud Services**: AWS,Azure,Google
-- **Frameworks**: Node.js, React, Flutter, Spring, FastAPI
+- **Frameworks**: Node.js, React, Flutter, Spring, FastAPI, NextJs
 - **Databases**: MongoDB, MySQL, Firebase, PostgreSQL
-- **Tools**: Git, GitHub, Azure, VS Code, Intellij
+- **Tools**: Jira, Git, GitHub, Azure, VS Code, Intellij
 - **Design**: Figma
 
-### Ongoing Projects:
+### Projects:
 
 - **PeoTV App**: Improving user experience for SLT PeoTV smart TV boxes. `React Native, Android SDK`
 - **IESL ROBO Games 2023**: Official website for IESL ROBO Games 2023 event. `React, Node.js, TypeScript`
@@ -34,7 +34,7 @@
 
 ### About Me:
 
-- Full-Stack Web Developer with a passion for web and mobile development.
+- Frontend Lead with a passion for web and mobile development.
 - Interested in AI, Machine Learning, Data Analysis, and more.
 - Always looking to collaborate on web and Android projects, as well as Data Science initiatives.
 
