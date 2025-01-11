@@ -15,12 +15,12 @@
 
 ### Technical Skills:
 
-- **Languages**: Java, JavaScript, TypeScript, Python
-- **Cloud Services**: AWS,Azure,Google
-- **Frameworks**: Node.js, React, Flutter, Spring, FastAPI, NextJs
-- **Databases**: MongoDB, MySQL, Firebase, PostgreSQL
-- **Tools**: Jira, Git, GitHub, Azure, VS Code, Intellij
-- **Design**: Figma
+- **Languages**: TypeScript, Java, JavaScript, Python
+- **Cloud Services**: AWS,GCP
+- **Frameworks**: Node.js, React, SpringBoot, FastAPI, NextJs
+- **Databases**: MongoDB, MySQL, PostgreSQL
+- **Tools**: Jenkins, SonarQube, Terraform, Jira, Git, GitHub Actions
+- **Mobile**: React Native, EXPO
 
 ### Projects:
 
