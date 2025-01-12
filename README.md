@@ -1,15 +1,49 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<h1 align="center">Hi 👋, I'm Shanuka</h1>
+<h3 align="center">BSc Eng Hons, Computer Science & Engineering, University of Moratuwa</h3>
+
+<table align="center">
+<tr border="none">
+<td width="60%" align="left">
+
+- 🌱 Currently Learning: Computer Science & Engineering
+- 🚀 Philosophy: Build quality software, and deliver confidently to production.
+- 💬 Ask Me About: Microservices Architecture
+- 📫 Reach Me At: shanuka.20@cse.mrt.ac.lk
+- ⚡ Fun Fact: You can call me Shanu!
+
+</td>
+<td width="40%" align="center">
+
 ![](/header.png)
 
-# Shanuka Lakshan
-
-#### Data Science Engineering Specialist | Computer Science and Engineering at University of Moratuwa
+  </td>
+</tr>
+</table>
 
 ---
+
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Shanukalakshan&theme=dark&show_icons=true&count_private=true&rank=false" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shanukalakshan&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.ShanukaLakshan1.vercel.app/api/top-langs/?username=Shanukalakshan&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>  
+  </td>
+</tr>
+</table>
 
 ### Connect with me:
 
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/cse-shanuka)
-[![Email](https://img.icons8.com/fluent/48/000000/gmail.png)](mailto:shanukalakshan9817@gmail.com)
+[![Email](https://img.icons8.com/fluent/48/000000/gmail.png)](mailto:shanuka.20@cse.mrt.ac.lk)
 
 ---
 
@@ -21,25 +55,3 @@
 - **Databases**: MongoDB, MySQL, PostgreSQL
 - **Tools**: Jenkins, SonarQube, Terraform, Jira, Git, GitHub Actions
 - **Mobile**: React Native, EXPO
-
-### Projects:
-
-- **PeoTV App**: Improving user experience for SLT PeoTV smart TV boxes. `React Native, Android SDK`
-- **IESL ROBO Games 2023**: Official website for IESL ROBO Games 2023 event. `React, Node.js, TypeScript`
-- **MORA UXplore**: Official website for MORA UXplore 2023 event. `MongoDB, Express, React, Node.js, NginX`
-- **Mercon 2023**: Website for MERCON 2023 Research Conference. `Html, Scss, JavaScript`
-- **EXMO Mobile App**: App for EXMO 2023 Re-energize Sri Lanka program. `Firebase, React Native`
-
----
-
-### About Me:
-
-- Frontend Lead with a passion for web and mobile development.
-- Interested in AI, Machine Learning, Data Analysis, and more.
-- Always looking to collaborate on web and Android projects, as well as Data Science initiatives.
-
-### Let's Work Together
-
-For collaboration or if you're interested in my work, feel free to reach out!
-
-[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/cse-shanuka)
