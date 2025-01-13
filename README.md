@@ -31,7 +31,6 @@
 <tr border="none">
 <td width="50%" align="center">
 
-<br>
 <!-- <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ShanukaLakshan&theme=dark&hide_border=false" /> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanukalakshan&show_icons=true&locale=en&theme=dark" alt="shanukalakshan" /></p>
