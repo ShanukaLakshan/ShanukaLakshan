@@ -26,29 +26,21 @@
 ---
 
 <h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
 
-<br>
-<!-- <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ShanukaLakshan&theme=dark&hide_border=false" /> -->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanukalakshan&show_icons=true&locale=en&theme=dark" alt="shanukalakshan" /></p>
-
-</td>
-<td width="50%" align="center">
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanukalakshan&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true" alt="shanukalakshan" /></p>
-
-  </td>
-</tr>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shanukalakshan&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true" alt="shanukalakshan top languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=shanukalakshan&show_icons=true&locale=en&theme=dark" alt="shanukalakshan stats" />
+    </td>
+  </tr>
 </table>
 
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -61,7 +53,6 @@
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
